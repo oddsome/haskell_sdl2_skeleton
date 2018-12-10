@@ -1,0 +1,6 @@
+simple app showing off controllable pixel (w a s d)
+main part is Env type, capable of:
+	control execution flow
+	cap count of loop execution per second to specific value
+	carry state, state updating caused by events
+	manage render, event polling, finalization
